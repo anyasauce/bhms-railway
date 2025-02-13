@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Main')
+@section('title', 'Main Page')
 
 @section('content')
 <section class="hero-section">

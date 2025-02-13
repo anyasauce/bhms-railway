@@ -1,4 +1,4 @@
-<?php $__env->startSection('title', 'Main'); ?>
+<?php $__env->startSection('title', 'Main Page'); ?>
 
 <?php $__env->startSection('content'); ?>
 <section class="hero-section">
